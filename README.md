@@ -8,33 +8,41 @@ I build things for the web, from backend APIs to frontend interfaces, and I'm al
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/VUE.JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/REACT_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![SCSS](https://img.shields.io/badge/SCSS-1e293b?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/VUE.JS-1e293b?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/REACT_JS-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CODEIGNITER-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1e293b?style=for-the-badge&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/LARAVEL-1e293b?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![CodeIgniter](https://img.shields.io/badge/CODEIGNITER-1e293b?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
 
 **Mobile**
 
-![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT_NATIVE_EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-1e293b?style=for-the-badge&logo=dart&logoColor=0175C2)
+![React Native Expo](https://img.shields.io/badge/REACT_NATIVE_EXPO-1e293b?style=for-the-badge&logo=expo&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **Tools and Deployment**
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-1e293b?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/VERCEL-1e293b?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Featured Projects
+
+- **[Kynleenim](https://github.com/peepzy/kynleenim)**: anime tracking app built with Laravel, Inertia, and Vue.
+- **[peepzy_v2](https://github.com/peepzy/peepzy_v2)**: personal portfolio website built with Vue.
+- **[potongrambot](https://github.com/peepzy/potongrambot)**: Laravel, Inertia, and Vue project using the Sneat Vuetify template.
+- **[Rental Mobil](https://github.com/peepzy/rental-mobil)**: car rental web app built with Laravel.
+- **[SIAKADS](https://github.com/peepzy/siakads_06)**: school academic information system (subjects, teachers, schedules) built with the MVC pattern.
 
 ## GitHub Stats
 
@@ -45,4 +53,4 @@ I build things for the web, from backend APIs to frontend interfaces, and I'm al
 
 ## Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peepzy)
+[![GitHub](https://img.shields.io/badge/GITHUB-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/peepzy)
