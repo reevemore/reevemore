@@ -12,14 +12,3 @@ My name is Reeve, and I'm a developer.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### GitHub Status
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=reevemore&show_icons=true&theme=transparent" />
-</p>
-
-### Most used languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reevemore&layout=compact&theme=transparent" />
-</p>
