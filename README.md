@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 My name is Reeve, and I'm a web developer.
 
