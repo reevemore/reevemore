@@ -1,4 +1,4 @@
-## Hi there 
+## Halo bossss
 
 My name is Reeve, and I'm a web developer.
 
@@ -8,41 +8,24 @@ Coding started as a hobby, and it stuck because it never gets boring. Every proj
 
 A collection of things I've picked up, played with, and keep coming back to.
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/SCSS-1e293b?style=for-the-badge&logo=sass&logoColor=CC6699)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-1e293b?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-1e293b?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-1e293b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vue.js](https://img.shields.io/badge/VUE.JS-1e293b?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/REACT_JS-1e293b?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-1e293b?style=for-the-badge&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/LARAVEL-1e293b?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![CodeIgniter](https://img.shields.io/badge/CODEIGNITER-1e293b?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
-
-**Mobile**
-
-![Dart](https://img.shields.io/badge/DART-1e293b?style=for-the-badge&logo=dart&logoColor=0175C2)
-![React Native Expo](https://img.shields.io/badge/REACT_NATIVE_EXPO-1e293b?style=for-the-badge&logo=expo&logoColor=white)
-
-**Database and Cloud**
-
-![MySQL](https://img.shields.io/badge/MYSQL-1e293b?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Firebase](https://img.shields.io/badge/FIREBASE-1e293b?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-**Design**
-
-![Figma](https://img.shields.io/badge/FIGMA-1e293b?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-**Tools and Deployment**
-
-![Git](https://img.shields.io/badge/GIT-1e293b?style=for-the-badge&logo=git&logoColor=F05032)
-![Vercel](https://img.shields.io/badge/VERCEL-1e293b?style=for-the-badge&logo=vercel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CODEIGNITER-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/VUEJS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native Expo](https://img.shields.io/badge/REACT_NATIVE_EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Featured Projects
 
@@ -53,4 +36,4 @@ A collection of things I've picked up, played with, and keep coming back to.
 
 ## Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GITHUB-1e293b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reevemore)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reevemore)
