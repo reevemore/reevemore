@@ -29,10 +29,10 @@ A collection of things I've picked up, played with, and keep coming back to.
 
 ## Featured Projects
 
-- **[absensii](https://github.com/reevemore/absensii)**: attendance system built with Laravel.
-- **[financetrack](https://github.com/reevemore/financetrack)**: personal finance tracker built with Laravel and Vue.
+- **[absensii](https://github.com/reevemore/absensii)**: attendance system built with Laravel and react js.
+- **[financetrack](https://github.com/reevemore/financetrack)**: personal finance tracker built with Laravel and Vue js.
 - **[perpustakaan_sekolah](https://github.com/reevemore/perpustakaan_sekolah)**: school library management system built with CodeIgniter 4.
-- **[pointofsales_system](https://github.com/reevemore/pointofsales_system)**: point of sales system built with Laravel and Vue.
+- **[pointofsales_system](https://github.com/reevemore/pointofsales_system)**: point of sales system built with Laravel and Vue js.
 
 ## Let's Connect
 
